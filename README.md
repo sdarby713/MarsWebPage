@@ -1,6 +1,6 @@
 # MarsWebPage
 
-The project here was to build a generalized web page about Mars scaped and pulled together from other web pages.
+The project here was to build a generalized web page about Mars scraped and pulled together from other web pages.
 
 Each element required a slightly different procedure.  The Mars News blurb simply used Beautiful Soup to pull an article_teaser_body from mars.nasa.gov/news.
 
